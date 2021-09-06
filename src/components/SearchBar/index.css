@@ -1,0 +1,22 @@
+.search-input-container {
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.search-icon {
+  border: 1px #ffffff;
+  align-self: center;
+}
+.search-input {
+  width: 60vw;
+  margin: 15px;
+  height: 30px;
+}
+.search-butt {
+  border: 2px #ffffff;
+  background-color: blue;
+  height: 30px;
+  width: 30px;
+  align-self: center;
+}

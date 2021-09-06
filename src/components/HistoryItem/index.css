@@ -1,0 +1,35 @@
+.history-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+}
+.left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.time {
+  font-size: 20px;
+  font-family: 'Lobster';
+  margin-left: 40px;
+}
+.web-logo {
+  height: 50px;
+  width: 50px;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+.delete {
+  height: 30px;
+  width: 30px;
+  margin-right: 40px;
+}
+.title {
+  font-family: 'Lobster';
+  margin: 20px;
+}
+.domain-url {
+  font-family: 'Lobster';
+  margin: 20px;
+}

@@ -1,0 +1,11 @@
+.history-list2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-logo {
+  height: 40px;
+  width: 120px;
+  margin-left: 25px;
+  color: #ffffff;
+}
